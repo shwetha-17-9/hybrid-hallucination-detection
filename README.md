@@ -121,12 +121,15 @@ pip install numpy pandas matplotlib scikit-learn scipy faiss-cpu
 ## How to Run
 
 Step 1: Run experiment
+
 python experiment.py
 
 Step 2: Evaluate results
+
 python evaluation.py
 
 Step 3: Generate graphs
+
 python comparison_graphs.py
 python graphs.py
 
