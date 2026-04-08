@@ -131,6 +131,7 @@ python evaluation.py
 Step 3: Generate graphs
 
 python comparison_graphs.py
+
 python graphs.py
 
 ---
