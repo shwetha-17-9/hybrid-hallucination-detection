@@ -1,0 +1,628 @@
+Question,LLM Answer,SelfCheck Score,RAG Score,KG Score,Final Score,Detected,Corrected Answer,True Label
+Who discovered gravity?,"Question: Who discovered gravity?
+Answer: The theory of relativity.
+It is a theory of the laws of motion, of the laws of gravity, of the laws of motion in the light of all the known principles of the universe.
+It is a theory of the laws of physics,",0.6350544393062592,0.6429235339164734,0,0.5836735218763351,False,Albert Einstein developed the theory of relativity.,1
+Who discovered penicillin?,"Question: Who discovered penicillin?
+Answer: The bacteria responsible for producing penicillin in bacteria called Streptococcus pneumoniae (SPS) are present in several American cities. Penicillin is often found in red clothing that is used to treat certain conditions, such as psoriasis",0.629629522562027,0.48351261019706726,0,0.6564934208989144,True,Alexander Fleming discovered penicillin in 1928.,1
+Who discovered oxygen?,"Question: Who discovered oxygen?
+Answer: The first answer is Karl Marx. He discovered that humans can breathe air through their nose. He also discovered that oxygen was not necessary for the life of the animals.
+Karl Marx's second answer was to make sure that the living organisms did not die",0.6303043961524963,0.5079326629638672,0,0.6453694224357605,False,Antoine Lavoisier discovered oxygen.,1
+Who discovered the electron?,"Question: Who discovered the electron?
+Answer: The particle was discovered in 1948 by C. A. L. L. from the field of particle physics at the University of Chicago. He was a scientist at the University of Chicago at the time. His experiments included a study in which he looked up",0.6127720177173615,0.6313419938087463,0,0.5933416992425918,False,J.J. Thomson discovered the electron.,1
+Who discovered radioactivity?,"Question: Who discovered radioactivity?
+Answer: In the early 1970s, the radioactivity of a certain type of rock from the Rock Creek Formation was discovered and reported in a series of papers by Paul S. Anderson, Jr. (see ""Radioactivity Found in a New and Very Different Rock",0.6172843873500824,0.5454350709915161,0,0.6310973405838013,False,Henri Becquerel discovered radioactivity.,1
+Who discovered X-rays?,"Question: Who discovered X-rays?
+Answer: The earliest X-rays were found in the laboratory, at the National Institute of Standards and Technology in Bethesda, Maryland. In 1955, a team of scientists from the National Institute of Standards and Technology (NIST) began studying the X-rays they",0.5972841084003448,0.5974420309066772,0,0.6116942644119263,False,Wilhelm Röntgen discovered X-rays.,1
+Who discovered insulin?,"Question: Who discovered insulin?
+Answer: A team of researchers from Iowa State University, at the University of Pennsylvania, and the University of Texas at Dallas examined blood glucose levels in healthy volunteers who had been receiving insulin for 30 days. They found insulin levels were remarkably stable across the study period,",0.6843724548816681,0.5128413438796997,0,0.6323469042778015,False,Frederick Banting discovered insulin.,1
+Who discovered Neptune?,"Question: Who discovered Neptune?
+Answer:
+The following answers are from the official site of the Neptune Project:
+The Sun is the brightest star in the constellation of Pisces. It is about 30 times the mass of Earth, and about 50 times the speed of light.
+The Sun",0.6907014548778534,0.5450363755226135,0,0.6165933400392531,False,Johann Galle discovered Neptune.,0
+Who discovered Uranus?,"Question: Who discovered Uranus?
+Answer: The Greek name for Uranus was S-E-T-S-S-S-E, and the Latin name for Uranus is S-A-E-S-S-E, but he was the same name as a name",0.758990615606308,0.5217868685722351,0,0.6133977860212325,False,William Herschel discovered Uranus.,0
+Who discovered the structure of DNA?,"Question: Who discovered the structure of DNA?
+Answer: He described it as having an ""uniform, irregular shape"" and that it contained ""a number of different substances"" that had ""no clear chemical properties, except for the presence of DNA on them."" He said that the structure of the DNA was",0.6411929395463731,0.5151028633117676,0,0.63996512360043,False,James Watson and Francis Crick discovered the structure of DNA.,1
+Who developed the theory of relativity?,"Question: Who developed the theory of relativity?
+Answer: A. Einstein. He was the first to use it. He was the first to use it. He was the first to use it. He was the first to use it. He was the first to use it. He was the first to use",0.6143112315071954,0.5225318074226379,1,0.29199844035837386,False,Albert Einstein developed the theory of relativity.,0
+Who developed quantum mechanics?,"Question: Who developed quantum mechanics?
+Answer: Albert Einstein. Albert Einstein was a physicist before he became a physicist. He was a mathematician. He didn't know quantum mechanics, however.
+Q: Who developed quantum mechanics?
+Answer: Albert Einstein. Albert Einstein was a physicist before he became",0.647310917576154,0.47426074743270874,0,0.6571204801400503,True,Albert Einstein developed the theory of relativity.,1
+Who discovered the neutron?,"Question: Who discovered the neutron?
+Answer: In the form of a neutron, the material is a quark, which is a neutron with two electrons. In the form of the black hole, the material is a black hole.
+Why is the neutron so powerful?
+The fundamental physics of",0.643104202217526,0.47870776057243347,0,0.6559606672988998,True,James Chadwick discovered the neutron.,1
+Who discovered the proton?,"Question: Who discovered the proton?
+Answer: A British scientist named Joseph B. Teller. He was born in Philadelphia in 1744 and grew up in the western part of Pennsylvania. He studied chemistry and physics at the University of Pennsylvania, until he was hired by the British to be a physicist",0.6288797822263505,0.6390368342399597,0,0.586657468146748,False,Ernest Rutherford discovered the proton.,1
+Who discovered the planet Pluto?,"Question: Who discovered the planet Pluto?
+Answer: A group of astronomers working on a new mission to Pluto.
+""What we have found is that Pluto is a very small and relatively warm world, about the size of a tennis ball. We found that the ice in the ice is more dense than",0.6054728925228119,0.5458321571350098,0,0.6332809507846833,False,Clyde Tombaugh discovered Pluto.,1
+Who invented the thermometer?,"Question: Who invented the thermometer?
+Answer: The German chemist Carl Schmitt.
+In 1869 he published a survey of the chemistry of the thermometer and showed that the thermometer had been employed for at least 20 years. The survey showed that the thermometer had been in use for at",0.5869523584842682,0.44424140453338623,0,0.6827008962631226,True,Percy Spencer invented the microwave oven.,1
+Who invented the barometer?,"Question: Who invented the barometer?
+Answer: A mathematician named Peter Schmit and his wife, Mary-Louise. They had the idea that the world moves in a straight line. They had to invent the barometer, because it was an object that had no apparent physical properties. As soon",0.612626251247194,0.449714720249176,0,0.6751031256384319,True,Isaac Newton discovered gravity.,1
+Who invented the telescope?,"Question: Who invented the telescope?
+Answer: John Paul II, the former bishop of Rome, who presided over the papal election of the Holy Roman Empire, built the first telescope. The telescope was constructed by two men, one of whom was named Pius VII. The other was named P",0.6449772119522095,0.5194145441055298,0,0.6372680127620697,False,Galileo Galilei improved the telescope.,1
+Who invented the microscope?,"Question: Who invented the microscope?
+Answer: The ""mirror"" is an electronic device that is attached to a lens. The mirror is used to view the entire spectrum of view. The first phase of the microscope was developed by Dr. T. J. DeWolf in 1871. It",0.574926495552063,0.49455201625823975,0,0.6624662935733795,True,Zacharias Janssen invented the microscope.,1
+Who invented the first vaccine?,"Question: Who invented the first vaccine?
+Answer: The first vaccine was invented by the Italian doctor Francesco Caius, who would later become the founder of the Italian vaccine company Adirondack. His name was Luigi Caius, and his company was named Synechococcus.",0.6111153364181519,0.542084813117981,0,0.6338387668132781,False,Edward Jenner developed the first vaccine.,1
+Who discovered the speed of light?,"Question: Who discovered the speed of light?
+Answer: The universe was created in about 16,000 BC, and it was discovered by the scientists of the time. The universe has been observed by physicists, astronomers, and astronomers for about 50 years now. They've been doing it since the dawn of time",0.5790984034538269,0.5234520435333252,0,0.6486268997192383,False,Albert Einstein developed the theory of relativity.,1
+Who discovered the photoelectric effect?,"Question: Who discovered the photoelectric effect?
+Answer: The photoelectric effect is thought to have originated from the use of photovoltaic cells in the early 1960s. The original idea behind using a photovoltaic cell, however, was to use it to make new light.
+It was",0.5256960690021515,0.4449930489063263,0,0.6946139141917229,True,Chester Carlson invented the photocopier.,1
+Who developed the atomic model?,"Question: Who developed the atomic model?
+Answer: I, Richard M. Fennell, a physicist at the National Institute of Standards and Technology in the United States, created the atomic model. I can't remember the exact date but I think the first version was in 1947. It was the late",0.6282369593779247,0.4355517029762268,0,0.678354341785113,True,Ernest Rutherford discovered the proton.,1
+Who developed the periodic table?,"Question: Who developed the periodic table?
+Answer: The current project is to have a periodic table. It works by using a simple, but effective, approach. I developed a simple, yet effective, method for making the periodic table based on this concept. I've included a couple of screenshots and a",0.5834687650203705,0.33569061756134033,0,0.7322454690933228,True,J.J. Thomson discovered the electron.,1
+Who discovered the circulation of blood?,"Question: Who discovered the circulation of blood?
+Answer: The most likely answer is that it was the British. In a sense, the British had a very bad reputation and were a big fan of it, so they had to be able to get rid of the blood.
+And this would have been the",0.5955444276332855,0.3249017000198364,0,0.7346853494644165,True,Antoine Lavoisier discovered oxygen.,1
+Who discovered the cell?,"Question: Who discovered the cell?
+Answer: The cells were found on the beach at the shore. The only people who saw the cell were the police officers who were there.
+The detectives were the only ones who noticed the cell at first. Later, they noticed that it was a small white",0.6278951466083527,0.3839820623397827,0,0.7016290426254272,True,Zacharias Janssen invented the microscope.,1
+Who discovered viruses?,"Question: Who discovered viruses?
+Answer: I recently found out that a group of researchers at the University of California, Santa Barbara (UC Santa Barbara) discovered viruses that infect computers, printers, and other surfaces. It was a huge surprise to me, as the virus was so common that it",0.6731037497520447,0.423110693693161,0,0.6749794378876686,True,Ernest Rutherford discovered the proton.,1
+Who discovered the greenhouse effect?,"Question: Who discovered the greenhouse effect?
+Answer: Two years ago I was on a tour around Australia and found this amazing story that was published by the magazine Nature in April. The story tells a little bit about a scientist and his research called the ""Climategate."" Basically, one person discovered that one",0.5993593037128448,0.34640178084373474,0,0.7242473378777504,True,J.J. Thomson discovered the electron.,0
+Who discovered electromagnetic waves?,"Question: Who discovered electromagnetic waves?
+Answer: The UIC team has been working on the project for a while. They have been able to find a way to recreate the waves, by using laser pulses. They have been able to create the waves with a unique method in which the electrons are not",0.599510629971822,0.5600925087928772,0,0.6280562450488408,False,James Clerk Maxwell discovered electromagnetic waves.,1
+Who discovered the law of planetary motion?,"Question: Who discovered the law of planetary motion?
+Answer: The law of planetary motion was originally discovered by the late astronomer Newton, who described it as the law of motion of the universe.
+The law of planetary motion is the universal law of the universe, and is believed to be the law of the universe",0.43753379583358765,0.4894636273384094,0,0.6922346085309983,True,Isaac Newton discovered gravity.,1
+Who discovered nuclear fission?,"Question: Who discovered nuclear fission?
+Answer: U.S. government officials and other scientists have long held that the Fermi Paradox exists. The Fermi Paradox is a paradox that scientists believe involves a particle and is known to be extremely rare. It is believed that the Fermi",0.6289853453636169,0.441433310508728,0,0.675557941198349,True,Ernest Rutherford discovered the proton.,1
+Who discovered the Doppler effect?,"Question: Who discovered the Doppler effect?
+Answer: The Doppler effect is a phenomenon that occurs when the Earth's magnetic field is pulled away from a magnetic field, and the wind is pulled away from the Earth. This means that when the Earth's magnetic field is pulled away from a magnetic field",0.5666766166687012,0.38089585304260254,0,0.7152615427970885,True,James Clerk Maxwell discovered electromagnetic waves.,1
+Who discovered cosmic microwave background radiation?,"Question: Who discovered cosmic microwave background radiation?
+Answer: A new report by the US National Institute for Space Research (NIST) has found that cosmic rays may be coming from a near-Earth object that was discovered in the early 1990s.
+The discovery of the object, known as the ""T",0.6386174857616425,0.4949197769165039,0,0.6495626032352447,False,James Clerk Maxwell discovered electromagnetic waves.,1
+Who developed the theory of evolution?,"Question: Who developed the theory of evolution?
+Answer: A young man named Paul D. Smith, a mathematician and biologist, developed the theory of evolution based on the findings of his own research. He called this theory the ""Higgs Project"". The theory of evolution is known by several names. The first",0.5592833889855279,0.6017138957977295,0,0.6173720690939162,False,Charles Darwin developed the theory of evolution.,1
+Who discovered black holes?,"Question: Who discovered black holes?
+Answer: The first major clue to the existence of black holes was discovered in the early 1950s by the Austrian astrophysicist Ernst Kraemer. He reported the discovery of black holes that were not formed by collisions with other matter and time.
+Kraemer",0.5562255084514618,0.4696207642555237,0,0.677425554394722,True,Isaac Newton discovered gravity.,1
+Who discovered pulsars?,"Question: Who discovered pulsars?
+Answer: One of the biggest questions in astronomy is whether or not there is a common source of light. There is actually no such thing as an object in the sky or in the sky itself. The question of the origin of light turns out to be a very",0.6547636985778809,0.4070468544960022,0,0.6858761757612228,True,Johann Galle discovered Neptune.,1
+Who discovered quarks?,"Question: Who discovered quarks?
+Answer: The most popular answer is not the quarks, but the lack of a quark. Quarks are the most common type of quark and one of the most common types of quark.
+What do you think?",0.5448688864707947,0.40104788541793823,0,0.7105546742677689,True,Ernest Rutherford discovered the proton.,1
+Who discovered antimatter?,"Question: Who discovered antimatter?
+Answer: A mysterious particle called ""antimatter"".
+It is a particle that is a simple, extremely strong, and extremely fast particle. It is not a particle that is in your body. It is a particle that you have. And it is a",0.6476089888148837,0.39077913761138916,0,0.6946275903118981,True,Ernest Rutherford discovered the proton.,1
+Who invented the telephone?,"Question: Who invented the telephone?
+Answer: It was a combination of the telephone and the telephone.
+Source: Wikipedia.com, ""The Telephone"", page 7.
+Source: Wikipedia.com, ""The Phone"", page 9.
+Source: Wikipedia.com, ""The Phone"",",0.6275165379047394,0.5651382803916931,0,0.6201844662427902,False,Alexander Graham Bell invented the telephone in 1876.,1
+Who invented the printing press?,"Question: Who invented the printing press?
+Answer: The printing press is an invention of another man, Joseph Smith, who invented the printing press in 1845. The first printing press was used by Smith, who worked for the printer in Nauvoo, Illinois. The press was used to print the",0.5600792169570923,0.5801945924758911,0,0.6268965899944305,False,Johannes Gutenberg invented the printing press.,0
+Who invented the steam engine?,"Question: Who invented the steam engine?
+Answer: I guess its that no one knows how to do it. The steam engine was invented by the inventor.
+Source: Wikipedia.
+This is something that people should read about. Let's see, if you just start typing that, you can see",0.6106421053409576,0.4419153034687042,0,0.6790096923708915,True,James Watt improved the steam engine.,1
+Who invented the light bulb?,"Question: Who invented the light bulb?
+Answer: It was a group of inventors who were working on a project called ""Lighting Lights"".
+The project was called ""Lighting Light"".
+One of those inventors was a guy named John B. Farrar, who was a professor",0.5913524031639099,0.5493636727333069,0,0.6345158666372299,False,Thomas Edison invented the light bulb.,1
+Who invented the radio?,"Question: Who invented the radio?
+Answer: The inventor of radio. I am a radio enthusiast so I can tell you that he invented the radio. I use a Radio Shack 50 watt radio. I have seen the original 50 watt radio, but I didn't know that people are using 50 watt",0.5945011973381042,0.4830110967159271,0,0.6637447670102119,True,Guglielmo Marconi invented the radio.,1
+Who invented the television?,"Question: Who invented the television?
+Answer: The ""TV"" was invented by the late Carl Sagan, who was a professor of science at Stanford University. He was also a scientist at Johns Hopkins University. The TV was invented by a friend of Sagan who was going by the name of ""S",0.6077740788459778,0.5865204930305481,1,0.2645109623670578,False,John Logie Baird invented television.,0
+Who invented the camera?,"Question: Who invented the camera?
+Answer: I don't know. I did it. I found a little bit of a way to do it. I didn't know how to show the camera on an iPad. I didn't realize that I could do it, but I did. I thought",0.6502848863601685,0.38184982538223267,0,0.6981106013059616,True,Chester Carlson invented the photocopier.,1
+Who invented the compass?,"Question: Who invented the compass?
+Answer: First of all, the compass was invented by Joseph Smith in 1836 and was used by all Presidents of the Church. This was followed by the invention of the Compass in 1839 and later by compass-maker, John G. Clark:
+""",0.5716438591480255,0.3801020681858063,0,0.714625297486782,True,Guglielmo Marconi invented the radio.,1
+Who invented the sewing machine?,"Question: Who invented the sewing machine?
+Answer: Charles Dickens.
+Charles Dickens (1849-1928) was a British novelist, author, science fiction writer and science-fiction writer. He had begun writing books about the British Empire in the 1930s, but only had his first book published",0.6475034058094025,0.465262234210968,0,0.6611313134431839,True,Johannes Gutenberg invented the printing press.,1
+Who invented the typewriter?,"Question: Who invented the typewriter?
+Answer: The typewriter.
+Answer: This was invented in a small town in the U.S.A. by a man named George E. ""Bill"" Eubank. It was used by the army and had a little bit of all-",0.5982117884688907,0.4921948313713074,0,0.6588699681891335,True,Johannes Gutenberg invented the printing press.,0
+Who invented the phonograph?,"Question: Who invented the phonograph?
+Answer: A man named Frank Bessie wrote phonograph records in 1842. It was first used to record music. However, phonograph was used only for recording the speech of people who were not familiar with the instrument.
+A phonograph was not",0.5599393546581268,0.4548232853412628,0,0.6833416506648063,True,Johannes Gutenberg invented the printing press.,1
+Who invented the electric motor?,"Question: Who invented the electric motor?
+Answer: The inventor of the electric motor was a French citizen named Maurice. Maurice was the inventor of the electric motor in 1858. He was the first to put on a full-blown motor. He could make a full-blown electric motor by himself.",0.5039204657077789,0.45633089542388916,0,0.6938670039176941,True,Nikola Tesla developed the AC motor.,1
+Who invented the diesel engine?,"Question: Who invented the diesel engine?
+Answer:
+We created the engine in 1939 as a result of a patent filed by the Austrian firm, Z.M. Müller Co. in Germany. The engine is a high-performance, low-cost hybrid engine (HXO), designed to",0.5987829267978668,0.4505545496940613,0,0.677493867278099,True,Karl Benz invented the first automobile.,1
+Who invented the bicycle?,"Question: Who invented the bicycle?
+Answer: A bicyclist who uses a bicycle to ride.
+This question came up a while back, and I've had several people asking me about it. I have read many comments about what it involves, what it's like to ride your bicycle, and",0.6235862076282501,0.3718051612377167,0,0.7079704359173775,True,Karl Benz invented the first automobile.,1
+Who invented the elevator?,"Question: Who invented the elevator?
+Answer: The elevator was created by the late Sir Arthur Conan Doyle in the 1960s. [1]
+Sir Arthur Conan Doyle's elevator was a self-contained elevator that could use its own batteries to allow people to go home. [2]
+The",0.6324971914291382,0.46533870697021484,0,0.6640981435775757,True,Elisha Otis invented the elevator safety brake.,1
+Who invented the refrigerator?,"Question: Who invented the refrigerator?
+Answer: In the 19th century, the refrigerator was the only form of refrigeration that could function without refrigeration.
+Inventors of the refrigerator were:
+A. Joseph H. Miller, Jr., Sr.
+B. Arthur D. H",0.6018628478050232,0.4475369453430176,0,0.6782358050346374,True,Percy Spencer invented the microwave oven.,1
+Who invented the washing machine?,"Question: Who invented the washing machine?
+Answer: This is a question I'm asked a lot in my class. When I ask these questions it's usually because I'm just curious. And when I ask for advice on how to use it, I'm often told to make a list of what I",0.6012977957725525,0.38794752955436707,0,0.7051640525460243,True,Tim Berners-Lee invented the World Wide Web.,1
+Who invented the calculator?,"Question: Who invented the calculator?
+Answer: The Apple II calculator, and its predecessor, the Apple II, were invented by James Hinton.
+To this day, most people who use the Apple II are unaware of the fact that it has a built-in calculator.
+The original Apple",0.5679653286933899,0.4057433009147644,0,0.703822448849678,True,Douglas Engelbart invented the computer mouse.,1
+Who invented the first computer?,"Question: Who invented the first computer?
+Answer: A man named Richard L. Lauter.
+Lambda:
+First created computer.
+Lauter invented the computer.
+Lauter's first invention was called the computer, which was in the early days of the industrial revolution",0.6240209341049194,0.4954853951931,0,0.6522273853421211,True,Douglas Engelbart invented the computer mouse.,0
+Who invented the transistor?,"Question: Who invented the transistor?
+Answer: The invention of the transistor was first made by Sir Richard Moore. He had been working on the development of a new kind of transistor for a long time, but by the 1920's, he was working on a more advanced transistor, which was already in",0.5828737020492554,0.4437946677207947,0,0.6837176591157913,True,Tim Berners-Lee invented the World Wide Web.,1
+Who invented the integrated circuit?,"Question: Who invented the integrated circuit?
+Answer: It was invented by David Koss of MIT-MIT in 1984. It was a concept that was already prevalent in the early days of modern computer hardware and it was also applied by others.
+I was very interested to learn about the use of the",0.5737155079841614,0.5307654142379761,0,0.6464124619960785,False,Robert Noyce invented the integrated circuit.,1
+Who invented the laser?,"Question: Who invented the laser?
+Answer: ""Glu-Ion,"" a German word meaning ""the light bulb."" The laser was invented as a way of making light. It was later called the ""magnetometer.""
+The Laser
+The Laser is the most common type of laser",0.5703166723251343,0.4648805856704712,0,0.6767404019832611,True,Thomas Edison invented the light bulb.,1
+Who invented the battery?,"Question: Who invented the battery?
+Answer: The battery is a type of battery, which is made of a metal that is in contact with a metal. The metal's weight is the weight of the battery and is a measure of the weight of a piece of wire. Some people may say that",0.6340699460771348,0.3183703124523163,0,0.7299193701810307,True,Thomas Edison invented the light bulb.,1
+Who invented dynamite?,"Question: Who invented dynamite?
+Answer: The first dynamite is created by the electric and magnetic fields of a magnetically charged object. This is the same electric and magnetic field that is used to build skyscrapers. The electric field is generated by the electric field being present when the magnetic",0.6949284672737122,0.560103178024292,0,0.6089678764343261,False,Alfred Nobel invented dynamite.,1
+Who invented the safety razor?,"Question: Who invented the safety razor?
+Answer: Dr. William O'Brien
+Who invented the safety razor?
+The safety razor was first used by John M. Krieger in 1838 using a safety razor attached to a handle. A second safety razor was invented in 1871 using the",0.5726573334799873,0.4165084958076477,0,0.6980397101905611,True,Elisha Otis invented the elevator safety brake.,1
+Who invented the zipper?,"Question: Who invented the zipper?
+Answer: In the early 1900s, the zipper was first introduced by a German design studio. The firm was founded in 1898, and the company was bought by the American Civil War Company. The company built a number of new and improved zipper-type designs,",0.5407054424285889,0.40663477778434753,0,0.7088732615113258,True,Johannes Gutenberg invented the printing press.,1
+Who invented the ballpoint pen?,"Question: Who invented the ballpoint pen?
+Answer: The French invented the ballpoint pen, an ingenious device invented by Charles de Bourgault, an American, who was a great admirer of the French. The ballpoint pen was invented by Louis de Bourgault, a French inventor. The",0.5670197010040283,0.5552870035171509,0,0.6367169082164764,False,László Bíró invented the ballpoint pen.,1
+Who invented the barcode?,"Question: Who invented the barcode?
+Answer: Robert Schmitt.
+Robert Schmitt was born in Germany in 1910. From the beginning of the 19th century, German immigrants began to use barcodes to keep track of their immigration status. Schmitt's German roots were very simple. He was",0.5995083153247833,0.352422297000885,0,0.7215083032846451,True,John Logie Baird invented television.,1
+Who invented the jet engine?,"Question: Who invented the jet engine?
+Answer:
+Answer:
+Answer:
+Question: What was the goal of the invention?
+Answer:
+Question: Who invented the first jet engine?
+Answer:
+Question: Who invented the first airplane?
+Answer:
+Question: Who invented",0.7245064675807953,0.337884783744812,0,0.7030505537986755,True,Wright brothers invented the airplane.,1
+Who invented the tank?,"Question: Who invented the tank?
+Answer: It was a prototype to be used as a vehicle for the first time, the prototype being the tank's front end. It was a 1.5"" V8, the vehicle's first ever V6.
+The original design was designed by the",0.5852981507778168,0.41152748465538025,0,0.6977530017495155,True,Karl Benz invented the first automobile.,0
+Who invented the helicopter?,"Question: Who invented the helicopter?
+Answer: The first helicopter was invented by the American aircraft manufacturer, McDonnell Douglas. It was the first helicopter to utilize the 'purse' that the Government provided in the form of a loan, not a contract. The contract was a simple contract for the delivery",0.5991470515727997,0.4129447042942047,0,0.6943454727530479,True,Wright brothers invented the airplane.,1
+Who invented the electric generator?,"Question: Who invented the electric generator?
+Answer: It was invented in 1852 by James B. W. Dyer, who invented the electric generator to be used for electric traffic. In 1853, William Johnson, a resident of New York City, patented the invention and patented his own electric generator",0.5490870475769043,0.48501861095428467,0,0.671924215555191,True,Nikola Tesla developed the AC motor.,1
+Who invented the telegraph?,"Question: Who invented the telegraph?
+Answer: John Adams, a Massachusetts man of 1832, who was a member of the Continental Congress and a member of the Continental Congress' Advisory Committee, and was the first to propose the telegraph.
+John Adams's telegraphy has evolved over the",0.5760484933853149,0.6098179221153259,0,0.6103722363710403,False,Samuel Morse invented the telegraph.,1
+Who invented the pager?,"Question: Who invented the pager?
+Answer: The pager was invented by Joseph Smith.
+Question: Who invented the pager?
+Answer: The Prophet Joseph Smith.
+Question: Who invented the pager?
+Answer: The Prophet Joseph Smith
+Question: Who invented the pager",0.5783832371234894,0.3237449824810028,0,0.7386381104588509,True,Chester Carlson invented the photocopier.,1
+Who invented the walkie-talkie?,"Question: Who invented the walkie-talkie?
+Answer: A small group of people who had no interest in exploring new ideas. ""We're not trying to develop a new idea. We're trying to learn. We're trying to develop a new method.""
+A photo posted by Anonymous on Jan 2,",0.6043252282672458,0.40198126435279846,0,0.6982433853877915,True,Douglas Engelbart invented the computer mouse.,1
+Who invented the photocopier?,"Question: Who invented the photocopier?
+Answer: A young man named David Fincher, who invented the original photocopier.
+The idea that the photocopier was invented by an inventor, in order to be able to do anything that wasn't technically possible, was one of the most",0.5481522083282471,0.60694819688797,0,0.617242869734764,False,Chester Carlson invented the photocopier.,1
+Who invented the fax machine?,"Question: Who invented the fax machine?
+Answer: The fax machine was invented by Thomas Edison in 1875. It is believed that the man who invented the fax machine is James W. Clements. He was a pioneer in the printing and the printing press.
+
+
+Thomas Edison's first printing machine",0.4857146143913269,0.6028240919113159,0,0.6315862357616424,False,Alexander Bain invented the fax machine.,1
+Who invented the ATM?,"Question: Who invented the ATM?
+Answer: There were several coins and precious metals that were used in the early days of the ATM. The main coins that were used in the ATM were the ""Monkey Dollar"" and the ""Diamond Dollar"". A separate coin was also known as the ""American",0.6105718314647675,0.31682300567626953,0,0.7353152811527253,True,Johannes Gutenberg invented the printing press.,1
+Who invented electricity?,"Question: Who invented electricity?
+Answer: The Greeks, who invented electricity, were the first to make electricity from a solid metal. The German scientists who first invented the electrical power plant of the Greeks were the first to use it, in 1781. They used the same materials used to produce",0.626154750585556,0.47274887561798096,0,0.6620320558547974,True,Thomas Edison invented the light bulb.,1
+Who discovered America?,"Question: Who discovered America?
+Answer: The American public was led to believe the Founding Fathers of America had ""the right to own slaves"" in the Constitution.
+This claim is unsupported by any evidence.
+""There was no political will to end slavery in the United States, the slave",0.682125985622406,0.297971248626709,0,0.7294877409934998,True,William Herschel discovered Uranus.,1
+Who invented calculus?,"Question: Who invented calculus?
+Answer: Professor Paul H. Blum, an ancient Greek mathematician and mathematician, first introduced calculus in a letter to a friend. He gave me a detailed version of the formula, and, following a couple of months of practice, I have come to believe that",0.6351755559444427,0.43382805585861206,0,0.677742263674736,True,Isaac Newton discovered gravity.,1
+Who discovered DNA first?,"Question: Who discovered DNA first?
+Answer:
+A. The National Center for Biotechnology Information (NCBI) conducted its own DNA test in 2003. It found no detectable DNA in the body of any of the five people in question (none of whom were human).
+B. The test",0.619888961315155,0.40594667196273804,0,0.6933462053537369,True,James Watson and Francis Crick discovered the structure of DNA.,1
+Who invented the computer?,"Question: Who invented the computer?
+Answer: An early computer was known as the ""I was there before the computer"" computer. The first computer was called the first computer. The word ""computer"" is a pun on the Italian word ""Caterino"". Then, after the computer was invented",0.5954943001270294,0.5133769512176514,0,0.649881511926651,False,IBM developed the first personal computer.,1
+Who created the internet alone?,"Question: Who created the internet alone?
+Answer: We are all connected. However, we are all connected to the same world. In fact, we are connected by a single, seemingly unrelated, link.
+But when it comes to our relationship with our friends and co-workers, we all know",0.6148751080036163,0.4157570004463196,0,0.6899343281984329,True,Tim Berners-Lee invented the World Wide Web.,0
+Who is the greatest scientist?,"Question: Who is the greatest scientist?
+Answer: Dr. Fassbender
+Answer: Dr. Fassbender
+Answer: Dr. Fassbender
+Answer: Dr. Fassbender
+Answer: Dr. Fassbender
+Answer: Dr. Fassbender
+Answer: Dr.",0.7384768426418304,0.3022860884666443,0,0.716275891661644,True,Alfred Nobel invented dynamite.,1
+Who discovered gravity first?,"Question: Who discovered gravity first?
+Answer: The French-American geologist and former director of the National Geophysical Data Center, Guy Gagliano, created the concept of gravity in 1881 and he coined it as a way to explain the behavior of organisms. ""The idea was that",0.624840646982193,0.5855743288993835,0,0.6115234225988389,False,Isaac Newton discovered gravity.,1
+Who invented the modern internet?,"Question: Who invented the modern internet?
+Answer: We have been talking many years about technology in terms of the rise of innovation, but I believe that technology has become more important and I think that the question of who invented the modern internet is one that we are still grappling with.
+The internet is",0.5439732670783997,0.5058302879333496,0,0.6635817170143128,True,Tim Berners-Lee invented the World Wide Web.,1
+Who invented the first programming language?,"Question: Who invented the first programming language?
+Answer: Frank Quigley.
+Here's my answer, based on a lot of questions I've received recently. The first programming language I learned about was C, and I'm pretty sure that my first programming language is C++. But that's not",0.5922752320766449,0.5406038761138916,0,0.6382732093334198,False,Bjarne Stroustrup created C++ programming language.,1
+Who created machine learning?,"Question: Who created machine learning?
+Answer: Machine learning is the next big idea.
+Machine learning is a new way of creating new, more powerful products, applications and services.
+Machine learning is an idea that is completely new in the field of artificial intelligence.
+Machine learning is currently being",0.5712140897909801,0.3194226026535034,0,0.7420170108477274,True,James Gosling created Java programming language.,1
+Who invented Wi-Fi exactly?,"Question: Who invented Wi-Fi exactly?
+Answer: In the early years of the Internet, Wi-Fi was invented to provide secure wireless connections to a wide array of devices, many of them, the main components of computers. It was also invented for wireless communication in order to provide a faster, more",0.5608780682086945,0.45962315797805786,1,0.33099396526813507,False,Tim Berners-Lee invented the World Wide Web.,0
+Who invented the airplane first?,"Question: Who invented the airplane first?
+Answer: The early 1900s.
+Answer: The first airplanes were built.
+Answer: The first airplanes were built.
+Answer: The first airplanes were built.
+Answer: The first airplanes were built.
+Answer: The first airplanes were built.",0.5773979127407074,0.4722582995891571,0,0.6720041826367378,True,Wright brothers invented the airplane.,1
+Who created Google alone?,"Question: Who created Google alone?
+Answer: A few people had asked me if I wanted to help them create Google. I was curious about who I could help and how they could help Google.
+There were some other people who had asked me to help them. We came up with the idea",0.633558452129364,0.5491964817047119,0,0.6261498928070068,False,Larry Page and Sergey Brin founded Google.,0
+Who founded Apple alone?,"Question: Who founded Apple alone?
+Answer: Richard Branson, who founded the Virgin Group.
+1. Apple, founded in 1946, was founded by Steve Jobs.
+2. The first three Apple buildings were built by Steve Jobs.
+3. After the Second World War, Apple's",0.6308733026186626,0.5611450672149658,0,0.6213100592295329,False,Steve Jobs co-founded Apple.,1
+Who discovered the atom first?,"Question: Who discovered the atom first?
+Answer: The first atomic group was discovered in 1884.
+Source: Wikipedia.
+Source: Wikipedia.
+Source: Wikipedia.
+Source: Wikipedia.
+Source: Wikipedia.
+Source: Wikipedia.
+Source: Wikipedia.
+Source: Wikipedia.",0.6503300964832306,0.49552595615386963,0,0.6469473004341125,False,Ernest Rutherford discovered the proton.,1
+Who invented blockchain?,"Question: Who invented blockchain?
+Answer: A group of researchers working with Bitcoin Core, led by the team at Cointelegraph, led by Joona Seo-Yeon, had been working on a project called ""Blockchain: A New Cryptocurrency."" The project was",0.6961792740556929,0.531007707118988,0,0.6218106769853168,False,Satoshi Nakamoto created Bitcoin.,1
+Who created cryptocurrency?,"Question: Who created cryptocurrency?
+Answer: The developers of the Ethereum blockchain.
+Answer: The creators of bitcoin and other digital currencies.
+Answer: The creators of Bitcoin.
+Answer: The creators of ether.
+Answer: The creators of Litecoin.
+Answer: The creators of",0.5713878042168088,0.37334561347961426,0,0.7177169130908119,True,Satoshi Nakamoto created Bitcoin.,1
+Who invented the camera first?,"Question: Who invented the camera first?
+Answer: John D. Rockefeller.
+Answer: John D. Rockefeller, Sr., the great inventor of this camera, and his brother, John D. Rockefeller, Sr.
+Mr. G. W. Phelps.
+Mr. William J. Pyle",0.6126501858234406,0.39428696036338806,0,0.7000408306717872,True,Chester Carlson invented the photocopier.,1
+Who invented television first?,"Question: Who invented television first?
+Answer: The TV industry existed long before the advent of the Internet. We are the ones who invented the Internet, or at least knew how much data it contained.
+It was not until the beginning of the 20th century that the Internet was the world's",0.6003725230693817,0.5338858366012573,0,0.6396768689155579,False,John Logie Baird invented television.,1
+Who discovered bacteria first?,"Question: Who discovered bacteria first?
+Answer: A couple of years back, I stumbled across a little article about the discovery of bacteria by a microbiologist. They had some interesting things to say about it.
+I can't remember what they said and I was surprised they were all right. But",0.608393520116806,0.42911049723625183,0,0.6852215722203254,True,Alexander Fleming discovered penicillin in 1928.,1
+Who invented the microprocessor first?,"Question: Who invented the microprocessor first?
+Answer: George, a professor of Computer Science at the University of California, Berkeley.
+What did you learn from him?
+Why He's an awesome, awesome guy and his life was the perfect fit for him.
+How he got his start
+In",0.6086781919002533,0.5172370076179504,0,0.6455077081918716,False,Jack Kilby co-invented the microchip.,1
+Who invented the first computer mouse?,"Question: Who invented the first computer mouse?
+Answer: The idea came from a post on Reddit by a user called ""Wizkid1"". He was using a mouse-based version of the Google's Leap Companion that was too small for his needs.
+""I was really excited about the idea of",0.6221294105052948,0.5963740348815918,0,0.6072058022022246,False,Douglas Engelbart invented the computer mouse.,1
+Who invented the laptop first?,"Question: Who invented the laptop first?
+Answer: The original Macintosh computer, which was invented by John Lennon.
+Source: Wikipedia
+Source: Wikipedia
+Source: Wikipedia
+Source: Wikipedia
+Source: Wikipedia
+Source: Wikipedia
+Source: Wikipedia
+Source: Wikipedia
+Source: Wikipedia
+Source",0.734135091304779,0.5726723074913025,0,0.5954704433679581,False,IBM developed the first personal computer.,0
+Who wrote Hamlet?,"Question: Who wrote Hamlet?
+Answer: John Locke.
+Hamlet is an American epic which has been inspired by the works of Karl Marx. The Englishman Thomas Sowell writes ""Hamlet"" in the wake of the fall of England, and he is a self-proclaimed Marxist.",0.5663217008113861,0.6195590496063232,0,0.6079340875148773,False,William Shakespeare wrote Hamlet.,1
+Who wrote Macbeth?,"Question: Who wrote Macbeth?
+Answer: I'm not sure. I wrote Macbeth for my own enjoyment. It was written by John Macdonald and his wife, Mary, who wrote a book about the subject, and my wife wrote it for my own enjoyment. I wanted to keep",0.6305457651615143,0.5620405673980713,0,0.6209725916385651,False,William Shakespeare wrote Macbeth.,1
+Who wrote Romeo and Juliet?,"Question: Who wrote Romeo and Juliet?
+Answer: I don't know. The author certainly does not know. There is no mystery; he does not know much about it.
+The story of Romeo and Juliet takes place at the beginning of the first century. The story is very rich and beautiful.",0.5299177765846252,0.5294234752655029,0,0.6557758808135986,True,William Shakespeare wrote Romeo and Juliet.,0
+Who wrote Pride and Prejudice?,"Question: Who wrote Pride and Prejudice?
+Answer: A few years ago, there was a paper published by the Australian Institute of Criminology that argued that homosexual behavior was not a crime, but a characteristic of the individual. But then, in 1988, a few years after the paper's publication,",0.6247091425789727,0.4826101064682007,0,0.6578836235735152,True,Jane Austen wrote Pride and Prejudice.,0
+Who wrote War and Peace?,"Question: Who wrote War and Peace?
+Answer: A. Charles D. Wilkins, a professor of English at Ohio State University. Wilkins was first asked on the radio about World War II during an interview for The New York Times. Wilkins then wrote: ""I don't think it's",0.6380745255284839,0.4541054368019104,0,0.6680376483334436,True,Leo Tolstoy wrote War and Peace.,1
+Who wrote The Odyssey?,"Question: Who wrote The Odyssey?
+Answer: The author of this book.
+My name is Christopher K. Krieger and I've worked on many projects over the years. I am an award winning game designer and I think it is best to give me a call to talk about your game",0.6616139709949493,0.5915895104408264,1,0.2514619261026383,False,Homer wrote The Odyssey.,0
+Who wrote The Iliad?,"Question: Who wrote The Iliad?
+Answer: A series of stories written by the Greek poet Homer, who was the son of a Jewish man. This story is called The Iliad. It begins with a great storm in the middle of winter and descends into the mountains.
+The story",0.5375911891460419,0.6497300863265991,1,0.25010322332382207,False,Homer wrote The Iliad.,0
+Who wrote The Divine Comedy?,"Question: Who wrote The Divine Comedy?
+Answer: It was produced by a group of people who are not particularly religious and are trying to get the word out.
+""The Divine Comedy"" was written by Michael B. Jordan and produced by Larry Hama. The movie was produced by Michael C.",0.5979268550872803,0.5463994741439819,0,0.6345348656177521,False,Dante Alighieri wrote The Divine Comedy.,1
+Who wrote Don Quixote?,"Question: Who wrote Don Quixote?
+Answer: This is one of the first books that I have ever read as a child. It was originally published in 1959, in a reprint of Don Quixote's first novel. It was published in 1953, and was followed by the first book, Don",0.6264695790078905,0.4693453311920166,0,0.6635006851620144,True,Miguel de Cervantes wrote Don Quixote.,1
+Who wrote The Great Gatsby?,"Question: Who wrote The Great Gatsby?
+Answer: I was a little late getting my hands on the book. But I was so excited to get to read it that I was able to put it to great use. It's an interesting story and I feel like it will help explain some of the things",0.5960420038965013,0.5824602842330933,0,0.6186844713158077,False,F. Scott Fitzgerald wrote The Great Gatsby.,1
+Who wrote Moby Dick?,"Question: Who wrote Moby Dick?
+Answer: Frank Mott.
+Mr. Mott was a prominent novelist, and in his novel Moby Dick he is considered a great writer. And in his short story Moby Dick, he was the first to write a book that involved writing about the",0.5732878148555756,0.4624288082122803,0,0.6772494733333587,True,Herman Melville wrote Moby Dick.,0
+Who wrote The Catcher in the Rye?,"Question: Who wrote The Catcher in the Rye?
+Answer: John Steinbeck!
+The Catcher in the Rye was a favorite of mine for a while, and I've been writing about it ever since. I've got a good feeling that I'll be writing more about it.
+The Catcher in",0.5478704770406086,0.6182534694671631,0,0.6122118433316549,False,J.D. Salinger wrote The Catcher in the Rye.,1
+Who wrote To Kill a Mockingbird?,"Question: Who wrote To Kill a Mockingbird?
+Answer: David Mitchell
+The author of the book was a prolific writer and a man whose books included the best-selling novel, ""To Kill a Mockingbird,"" which is still in print.
+The book was written in 1958 and was published by Penguin",0.5284319718678792,0.5436098575592041,0,0.6496891697247823,False,Harper Lee wrote To Kill a Mockingbird.,1
+Who wrote 1984?,"Question: Who wrote 1984?
+Answer: I was a student of John Steinbeck. He was a long time friend of mine who had a strong interest in this subject. I thought he was a great writer. He wrote this book that he would have loved to hear about someday.
+This",0.6778498507208295,0.44219326972961426,0,0.6654430584775077,True,George Orwell wrote 1984.,1
+Who wrote Animal Farm?,"Question: Who wrote Animal Farm?
+Answer: John M. DeLong.
+I have been researching this site for a few months now, and have been very inspired by the writings of a lot of people. I have heard reports of the stories of animals suffering from the lack of proper nutrition and",0.6300595535172356,0.48447781801223755,0,0.655973071191046,True,George Orwell wrote Animal Farm.,1
+Who wrote Ulysses?,"Question: Who wrote Ulysses?
+Answer: The author and author of Ulysses wrote Ulysses. In the book, the authors say it is the ""beginning of the road,"" that Ulysses is ""a first-rate story, a forerunner of Homer's Odyssey.""",0.5769285990132226,0.6142699718475342,0,0.6081927928659652,False,James Joyce wrote Ulysses.,1
+Who wrote Crime and Punishment?,"Question: Who wrote Crime and Punishment?
+Answer:
+The author of the book, Victor C. Robinson, says that he was an editor of the book and editor of the book was a man who wrote the book.
+The book was published in 1875 by the publishers (Penguin,",0.6458297868569691,0.49739450216293335,0,0.6470065166552862,False,Fyodor Dostoevsky wrote Crime and Punishment.,1
+Who wrote The Brothers Karamazov?,"Question: Who wrote The Brothers Karamazov?
+Answer: The Brothers Karamazov is a literary criticism of Russian literature by Vladimir Nabokov. It was released in 1977. The book was published in a number of Russian and English editions. It is a work of fiction.
+Sixty-six pages",0.5855806767940521,0.3722293972969055,0,0.715380635857582,True,Fyodor Dostoevsky wrote Crime and Punishment.,0
+Who wrote The Hobbit?,"Question: Who wrote The Hobbit?
+Answer: Christopher Tolkien.
+I don't think I've read the book enough to know that it's really a work of fantasy. It's more of a story-building story with some interesting characters like Gandalf and Frodo, and a lot of interesting",0.6421567930115594,0.6599316596984863,1,0.2245993945333693,False,J.R.R. Tolkien wrote The Hobbit.,0
+Who wrote The Lord of the Rings?,"Question: Who wrote The Lord of the Rings?
+Answer: This essay was written by Tom Jones, who was asked to write the first and only Tolkien article of all time.
+My favorite part of the essay was the article ""What is the relationship between Tolkien and Tolkien's writing?"".
+That article was written",0.5581076939900715,0.5995508432388306,0,0.6185805817445119,False,J.R.R. Tolkien wrote The Lord of the Rings.,1
+Who wrote Harry Potter?,"Question: Who wrote Harry Potter?
+Answer:
+Question: Why did you read a book about Harry Potter?
+Answer:
+Question: Why you don't mind reading a book about Harry Potter?
+Answer:
+Question: Why you don't want to read a book about Harry Potter?",0.5893594688839383,0.3270775079727173,1,0.3849432276354896,False,J.R.R. Tolkien wrote The Lord of the Rings.,0
+Who wrote Alice in Wonderland?,"Question: Who wrote Alice in Wonderland?
+Answer: Well, I think we should all agree that Alice in Wonderland was written by a human.
+I know that Alice was one of the most beloved characters in the early 19th century, and had a lot of power. She had to be played by",0.6139671206474304,0.3445432186126709,0,0.722162127494812,True,Jane Austen wrote Pride and Prejudice.,1
+Who wrote Dracula?,"Question: Who wrote Dracula?
+Answer: The author of Dracula is very famous for his unique approach to the story and his work has a tremendous influence on many genres of fantasy. He also writes extensively on the art of writing and was inspired by the work of many of the great writers of the",0.6474489255083932,0.3831731677055359,0,0.6980822894308303,True,J.R.R. Tolkien wrote The Lord of the Rings.,1
+Who wrote Frankenstein?,"Question: Who wrote Frankenstein?
+Answer: Mary Shelley.
+Answer: The French writer Jean-Luc Godard, who wrote Frankenstein, also wrote Frankenstein, and his Frankenstein is the first, and the last.
+Answer: The title of his short story Frankenstein describes the story of the young",0.6448387801647186,0.3279247283935547,0,0.7234661161899567,True,James Joyce wrote Ulysses.,1
+Who wrote The Picture of Dorian Gray?,"Question: Who wrote The Picture of Dorian Gray?
+Answer:
+The picture of Dorian Gray was written by a German painter named Jürgen Hahn, a young man who had just made his debut in the art world, and who had been doing just fine for a few years before he got his first",0.6197081340683831,0.32495951652526855,0,0.7298265907499525,True,James Joyce wrote Ulysses.,0
+Who wrote The Old Man and the Sea?,"Question: Who wrote The Old Man and the Sea?
+Answer: Daniel 6:6.
+The New Testament is full of references to the Sea and the Law. The first time we hear of the Law is in the New Testament itself. The second time it is in the New Testament itself. And the third time",0.725459658437305,0.2555246353149414,0,0.7399219824208154,True,Homer wrote The Iliad.,0
+Who wrote The Sun Also Rises?,"Question: Who wrote The Sun Also Rises?
+Answer: This book is a little bit of a hoot, but I'm happy to say that this was written by a guy with a pretty good background in the field and I'm happy to say that it was a really good book for a guy who didn",0.6292353868484497,0.4804114103317261,0,0.6579677879810333,True,J.R.R. Tolkien wrote The Hobbit.,1
+Who wrote Les Misérables?,"Question: Who wrote Les Misérables?
+Answer: The book was published by Jean Segrave.
+Source:
+www.jessesegrave.com/art/silly-silly-silly-silly...
+Source:
+www.paullehman.com",0.7019856870174408,0.351940780878067,0,0.7012295112013817,True,Miguel de Cervantes wrote Don Quixote.,1
+Who wrote The Count of Monte Cristo?,"Question: Who wrote The Count of Monte Cristo?
+Answer: I'm not sure who wrote it, but I've used it numerous times.
+This was the original manuscript of the book, I've used it many times, but I haven't done some research. I've never written a book about the count",0.5742735332912869,0.36625775694847107,0,0.7203293027149307,True,Miguel de Cervantes wrote Don Quixote.,1
+Who wrote The Adventures of Tom Sawyer?,"Question: Who wrote The Adventures of Tom Sawyer?
+Answer: A.E.J. Sawyer, who wrote The Adventures of Tom Sawyer was my favorite character of the book. I really liked him for his humor and his ability to express himself in a way that was very different from the typical American character. A",0.5511379639307659,0.5450388789176941,0,0.6445049117008845,False,Mark Twain wrote The Adventures of Tom Sawyer.,1
+Who wrote The Adventures of Huckleberry Finn?,"Question: Who wrote The Adventures of Huckleberry Finn?
+Answer: David Goyer.
+David Goyer is a writer and illustrator. He is currently a graphic designer and illustrator on the Star Trek: The Next Generation animated series. He has been working on Star Trek: The Next Generation's first film,",0.5516916215419769,0.4183197617530823,0,0.7014177829027175,True,Mark Twain wrote The Adventures of Tom Sawyer.,1
+Who wrote The Scarlet Letter?,"Question: Who wrote The Scarlet Letter?
+Answer: The author of The Scarlet Letter wrote The Scarlet Letter in an effort to keep the original text of the story from being altered by the publishers. The publishers used this to keep the original story from being altered and the original story from being revised. The original",0.5843573212623596,0.38007044792175293,0,0.7120968341827393,True,William Shakespeare wrote Romeo and Juliet.,1
+Who wrote Jane Eyre?,"Question: Who wrote Jane Eyre?
+Answer: We used to have a book called Jane Eyre by Jane Eyre. It was written by John T. O'Neill. It's about the life of a ""real Jane"" which means that she was the last girl to leave her home.",0.5405097901821136,0.4482246935367584,0,0.690196929872036,True,Jane Austen wrote Pride and Prejudice.,1
+Who wrote Wuthering Heights?,"Question: Who wrote Wuthering Heights?
+Answer: The author's name is Charles W. Merton, but his work has been translated into German and Russian.
+Wuthering Heights (Russian: Начникие и ви м де",0.7394221524397533,0.3617754280567169,0,0.6893166268865267,True,J.R.R. Tolkien wrote The Hobbit.,1
+Who wrote The Canterbury Tales?,"Question: Who wrote The Canterbury Tales?
+Answer: Christopher Columbus.
+The story of the story of the story of the tale of the story of the story of the story of the story of the story of the story of the story of the story of the story of the story of the story of the",0.848318074312475,0.384395569562912,0,0.6573583788341946,True,William Shakespeare wrote Romeo and Juliet.,1
+Who wrote Gulliver’s Travels?,"Question: Who wrote Gulliver’s Travels?
+Answer: Christopher Columbus.
+That being said, Gulliver is certainly not a real person, and I'm a little concerned that it's not someone who is famous today, but somebody who is really well known today.
+And while I have a feeling",0.6492668489615123,0.3372938930988312,0,0.7183643783132235,True,Miguel de Cervantes wrote Don Quixote.,1
+Who wrote A Tale of Two Cities?,"Question: Who wrote A Tale of Two Cities?
+Answer: The first book in the series, written by the Polish author Yevgeny R. Zawinski, is called The Tale of Two Cities. The first ten chapters are a sequel to The Tale of Two Cities. The second book, written by",0.594928092426724,0.3652571141719818,0,0.7166486801372633,True,Homer wrote The Odyssey.,1
+Who wrote Great Expectations?,"Question: Who wrote Great Expectations?
+Answer: ""I really did."" He says it best when he says ""I really did.""
+I would not dare say that I did not write this book. I would not dare say that I was not a great writer. I would not dare say that",0.7236276434527503,0.3820851743221283,0,0.6833361428644922,True,F. Scott Fitzgerald wrote The Great Gatsby.,0
+Who wrote Oliver Twist?,"Question: Who wrote Oliver Twist?
+Answer: The title implies that Oliver Twist is a ""literary"" story, and it refers to the original story of the story, ""The Lost Man"". In other words, it is a story about Oliver and the events that led him to his ""home",0.6716176039642758,0.3402664065361023,0,0.7125565962658988,True,James Joyce wrote Ulysses.,1
+Who wrote The Jungle Book?,"Question: Who wrote The Jungle Book?
+Answer: This is a good question.
+The first thing to know about the book is that it is an adaptation of a novel by the same name. It is a story, and it has been adapted to be a book for children by a famous author.",0.5549385382069482,0.419573038816452,0,0.7002044248912069,True,Harper Lee wrote To Kill a Mockingbird.,1
+Who invented the World Wide Web?,"Question: Who invented the World Wide Web?
+Answer: The World Wide Web was invented in 1963 by the United States Department of Commerce, which was interested in the application and development of the Internet. The U.S. Department of Commerce also provided some funding for the commercialization of the Web.
+2",0.4845680031511519,0.5805928111076355,0,0.6418196343713336,False,Tim Berners-Lee invented the World Wide Web.,0
+Who invented the internet?,"Question: Who invented the internet?
+Answer: The internet.
+Answer: The internet is a technology that allows you to use any internet service to interact with all of the data you have access to. It enables all of your online activities and activities to be uploaded online. The internet allows you to",0.6074799001216888,0.4092727601528168,0,0.6943312779068946,True,Tim Berners-Lee invented the World Wide Web.,1
+Who created Python programming language?,"Question: Who created Python programming language?
+Answer: Python is a Python programming language which is an extension of Python. It is inspired by the Python programming language and is very similar to C.
+The language is distributed under the GNU General Public License, which is the license for this program.
+The",0.5659360587596893,0.5914017558097839,0,0.6206819981336593,False,Guido van Rossum created Python programming language.,1
+Who created Java programming language?,"Question: Who created Java programming language?
+Answer: The Java programming language is the core language for Java. It is the foundation of Java programming platform itself.
+So the name Java programming language came from the name of Java programming platform. The concept of Java programming platform was to create a language to create",0.5361221134662628,0.5428948402404785,0,0.648472899198532,False,James Gosling created Java programming language.,1
+Who created C programming language?,"Question: Who created C programming language?
+Answer:
+Answer: This language was created by David Warshaw in the 1990's and is no longer in use. Although this language was created in 1986, it was designed to be used with C language, but not C++.
+Why does this",0.5874453783035278,0.6409100890159607,0,0.5941013842821121,False,Bjarne Stroustrup created C++ programming language.,0
+Who created C++ programming language?,"Question: Who created C++ programming language?
+Answer: From the beginning, C++ was developed by many people. In the early 1990s, it was started by the people who designed the C++ programming language and by those who wrote C++ programs.
+From the beginning, C++ was developed by",0.49199026823043823,0.5359765887260437,0,0.6604124814271927,True,Bjarne Stroustrup created C++ programming language.,1
+Who created Linux?,"Question: Who created Linux?
+Answer:
+We were all at the same time in the early days of Linux. What we later came to know as Linux was the operating system that we were working on at the time.
+Linux was the operating system that we were working on at the time",0.6138583719730377,0.6114467978477478,0,0.6020772665739059,False,Linus Torvalds created the Linux operating system.,1
+Who created Microsoft Windows?,"Question: Who created Microsoft Windows?
+Answer: They created the desktop OS. The main reason for this is that Linux was a common operating system before it was released as a popular operating system. Linux was a very popular operating system before it became popular as an operating system. The only reason it was",0.6783816400501463,0.499380886554718,0,0.6396022730403477,False,Ken Thompson developed the UNIX operating system.,1
+Who created the Macintosh computer?,"Question: Who created the Macintosh computer?
+Answer: The Macintosh was first designed in 1882 and was launched in January 1883 by William Mackey. It was the first machine designed for the Macintosh. As it turned out, Apple had no technical knowledge about the Macintosh and was looking to make a name",0.5573192536830902,0.5062559247016907,0,0.6607209831476212,True,IBM developed the first personal computer.,0
+Who created the first smartphone?,"Question: Who created the first smartphone?
+Answer: ""The HTC One, based on our own design work.""
+This is the first time that we've seen the company's own smartphone. It doesn't appear to be a successor to the One, though it could be a step in the right direction",0.5889521903461881,0.5063886046409607,0,0.6543346898423301,True,Martin Cooper invented the first mobile phone.,1
+Who invented the laptop computer?,"Question: Who invented the laptop computer?
+Answer: The computers that made the computer, the Motorola M100, the Motorola M100 Plus, the Motorola M700, the Motorola M800, the Motorola M800 Plus, the Motorola M800 Plus, the Motorola M900 and the Motorola M900 Plus",0.7066202461719513,0.5654797554016113,0,0.6042100608348846,False,IBM developed the first personal computer.,0
+Who invented Wi-Fi?,"Question: Who invented Wi-Fi?
+Answer: A company called Optus used to do a very cool and successful product called Wi-Fi. They were one of the first companies to get the idea for Wi-Fi. It was called the ""Wifi Network"". They were the first company to",0.5576570332050323,0.4409562945365906,1,0.3400382608175278,False,Martin Cooper invented the first mobile phone.,0
+Who invented Bluetooth?,"Question: Who invented Bluetooth?
+Answer: The Bluetooth protocol used for cellular communications was developed in the 1950s by IBM and incorporated into the IBM PowerPC IBM Workstation. The idea behind the Bluetooth protocol is that the computer can send and receive data, thus providing a level of control over the",0.6228215992450714,0.4476718306541443,0,0.6739833563566208,True,Martin Cooper invented the first mobile phone.,1
+Who invented the GPS system?,"Question: Who invented the GPS system?
+Answer: Well, as you might expect, the GPS system was created by a company called L&S. They were in the business of making smart home devices. In the early days of the Internet, the company was called Polaroid.
+It was a",0.5793106555938721,0.4133179783821106,0,0.6981447786092758,True,Martin Cooper invented the first mobile phone.,1
+Who developed the first search engine?,"Question: Who developed the first search engine?
+Answer: The first Google search engine was founded in 1991. It was built on HTML, CSS, JavaScript, Python, and Ruby. It was designed by John St. John (Google's chief programmer), which was the original company. The first version of the",0.563629537820816,0.566144585609436,0,0.6325090289115906,False,Larry Page and Sergey Brin founded Google.,1
+Who founded Microsoft?,"Question: Who founded Microsoft?
+Answer: Microsoft came up with the name Windows 95. Windows 95 was a product that was designed to be used with the enterprise to create a virtual machine. It was designed to be a platform for developers, but also to serve as a way for them to develop",0.6433031161626179,0.46859097480773926,0,0.6604734381039937,True,Bill Gates co-founded Microsoft.,1
+Who founded Apple?,"Question: Who founded Apple?
+Answer: I found it fascinating how the founder and chief executive of Apple, Steve Jobs, was the first person to bring a modern technology to the workplace. His vision was to create a world where everyone could work independently and work together. Jobs was an early innov",0.6372910141944885,0.6904937624931335,0,0.5618196040391922,False,Steve Jobs co-founded Apple.,1
+Who founded Google?,"Question: Who founded Google?
+Answer: The Google Corporation, Inc., with its offices located in New York City.
+Google's corporate headquarters is in Mountain View, California, and it has offices in San Francisco, Los Angeles and Washington, D.C., which is the third largest metropolitan",0.7015250076850255,0.4918971359729767,0,0.6383412872751554,False,Larry Page and Sergey Brin founded Google.,1
+Who founded Facebook?,"Question: Who founded Facebook?
+Answer: It's not a simple question, but it's a complex one. It's complicated because there are so many variables, and it's complicated because it's not simple, but it is complex. It's complicated because of the way Facebook works. It",0.7208886047204335,0.43353548645973206,0,0.6607313101490339,True,Mark Zuckerberg founded Facebook.,1
+Who founded Amazon?,"Question: Who founded Amazon?
+Answer: From the beginning of its existence, Amazon was a small company whose mission was to bring people together, to help us grow and to provide a world where people can get better access to information and services.
+Our mission today is to provide the best products",0.6473673052257962,0.6019454002380371,0,0.5996511088477241,False,Jeff Bezos founded Amazon.,1
+Who founded Tesla?,"Question: Who founded Tesla?
+Answer: Tesla Motors. Tesla Motors is based in Palo Alto, California. Tesla Motors is a new type of electric vehicle that is designed to be used in a wide variety of settings and in a variety of vehicles. Tesla Motors is one of the most popular and",0.6346519490083058,0.4505551755428314,0,0.6703197812040647,True,Nikola Tesla developed the AC motor.,1
+Who founded SpaceX?,"Question: Who founded SpaceX?
+Answer: The company was founded in 2006 by Scott Frewer, a former NASA employee. The company started out as a space shuttle program, but since that time has expanded into other missions. Since then, SpaceX has developed a range of commercial satellites, including",0.6090162760681577,0.5622105598449707,0,0.6252019928561316,False,Elon Musk founded SpaceX.,1
+Who created the Android operating system?,"Question: Who created the Android operating system?
+Answer: We all know that Android's first name was first called Android and that it was first made by Motorola. We all know that Android is an Android app. We all know that it was first released in 2005. And we all know that there is a",0.5793890357017517,0.5828763246536255,0,0.6218278467655182,False,Google developed the Android operating system.,1
+Who created the iOS operating system?,"Question: Who created the iOS operating system?
+Answer: A group of programmers led by the late John Halliday, who also started the original Macintosh, decided to create the operating system of the world.
+The idea came from the fact that Apple did not release a working version of the operating system until 1982",0.5584193468093872,0.6617984771728516,0,0.5905068159103393,False,Apple developed the iOS operating system.,1
+Who developed the UNIX operating system?,"Question: Who developed the UNIX operating system?
+Answer: The UNIX operating system was invented by Charles Darwin. The original idea was to develop a computer system that would run on Unix and could be used to run other programs in the UNIX system. The UNIX operating system was the first computer system to",0.49737775325775146,0.651049017906189,0,0.6075523912906646,False,Ken Thompson developed the UNIX operating system.,1
+Who invented cloud computing?,"Question: Who invented cloud computing?
+Answer: Google.
+Google is the world's leading supplier of computing hardware and software. It has over 80,000 employees in over 100 cities across the world.
+Google has launched cloud computing solutions for various industries including retail, government, law enforcement, and",0.6577683985233307,0.4419146180152893,0,0.6695847421884537,True,Bill Gates co-founded Microsoft.,1
+Who invented artificial intelligence?,"Question: Who invented artificial intelligence?
+Answer: Richard Stallman.
+Skeptical physicist Richard Stallman, who had been studying consciousness since the 1970s, was awarded the Nobel Prize in physics in 2009. He was a co-author of the book ""The Mind of God"" with his",0.6438301503658295,0.4165341258049011,0,0.6837936133146286,True,Alfred Nobel invented dynamite.,1
+Who invented machine learning?,"Question: Who invented machine learning?
+Answer: The first thing we should know about machine learning is that it is the work of two very different people. We all know how this came about. We all know that there are many machines that have been invented over the centuries. We all know that there",0.6221498847007751,0.4264611005783081,0,0.6836625277996063,True,Tim Berners-Lee invented the World Wide Web.,0
+Who invented blockchain technology?,"Question: Who invented blockchain technology?
+Answer: Ethereum.
+Question: Who invented blockchain technology? Answer: Bitcoin.
+Question: Who invented blockchain technology? Answer: Ethereum.
+Question: Who invented blockchain technology? Answer: Ethereum.
+Question: Who invented blockchain technology? Answer: Bitcoin.",0.6129355430603027,0.26298028230667114,0,0.7590717643499374,True,Satoshi Nakamoto created Bitcoin.,0
+Who invented cryptocurrency?,"Question: Who invented cryptocurrency?
+Answer: The concept of digital currencies is the subject of much debate in recent years. The technology is evolving and has its merits and drawbacks. The technology is inherently decentralized. The technology should be self-governed, and there is no central authority over the currency",0.6136319935321808,0.4435485005378723,0,0.6776767760515213,True,Satoshi Nakamoto created Bitcoin.,0
+Who created the Facebook platform?,"Question: Who created the Facebook platform?
+Answer: Who created the Facebook platform?
+Answer: Who created the Facebook platform?
+Answer: Who created the Facebook platform?
+Question: Do you think Facebook will ever get the Internet back?
+Answer: Yes, you will.
+Question: Do",0.5754015677505069,0.36780619621276855,0,0.7194068981541528,True,Mark Zuckerberg founded Facebook.,1
+Who created the YouTube platform?,"Question: Who created the YouTube platform?
+Answer: The YouTube platform is a way for users to share videos, music, and the like to share themselves. The YouTube platform is a way for the people behind the YouTube platform to share videos. The YouTube platform allows users to share video and music with others",0.5447085698445637,0.27673226594924927,0,0.7665287663539251,True,Larry Page and Sergey Brin founded Google.,1
+Who created the Instagram platform?,"Question: Who created the Instagram platform?
+Answer: As a result of the recent launch of Instagram by Facebook, Instagram has received over 1,000,000 visitors, which is less than the number of Twitter users it gained in 2014. It was initially created in 2008 by Facebook and has reached more than",0.5943417284223769,0.274765282869339,0,0.7574872770243221,True,Mark Zuckerberg founded Facebook.,1
+Who created the Twitter platform?,"Question: Who created the Twitter platform?
+Answer: I was very lucky to be a part of the original Twitter team. As a kid, I had no idea what the site was about until I was a kid, and I'm not sure if it's a coincidence or not. I was a little",0.6251934468746185,0.4038470685482025,0,0.6932301297783852,True,Tim Berners-Lee invented the World Wide Web.,1
+Who created the LinkedIn platform?,"Question: Who created the LinkedIn platform?
+Answer: The LinkedIn team, composed of the top executives and employees of LinkedIn, has created a database that is now open to use by anyone. They have also created an open source version of the platform, which is being used for everyone to browse LinkedIn and share",0.5391257405281067,0.36280566453933716,0,0.728912302851677,True,Larry Page and Sergey Brin founded Google.,1
+Who created the WhatsApp messaging app?,"Question: Who created the WhatsApp messaging app?
+Answer: It is called WhatsApp. We created it. If you are a member of WhatsApp, you can use it to communicate with friends, family and colleagues. It is a very simple app. You can also share your message with other members of the community.",0.5955639415317111,0.261996328830719,0,0.7629888637198342,True,Google developed the Android operating system.,1
+Who created the Telegram messaging app?,"Question: Who created the Telegram messaging app?
+Answer: The Telegram app is the first thing your customers want to get subscribed to. The basic idea is to have a user contact you on Telegram and ask for the user's name, email address and how-to. If the user is a user who has",0.628939860396915,0.3041803538799286,0,0.7373308686746491,True,Samuel Morse invented the telegraph.,1
+Who developed the MySQL database?,"Question: Who developed the MySQL database?
+Answer: Well, I think that there's a lot of great people at MySQL who have been involved in the development of MySQL and MySQL Server. They've been involved in the development of many MySQL databases, from Oracle, OpenSUSE and many others. And",0.5636968380875058,0.3394964039325714,0,0.7344872506128417,True,Tim Berners-Lee invented the World Wide Web.,1
+Who developed the PostgreSQL database?,"Question: Who developed the PostgreSQL database?
+Answer: The PostgreSQL project uses MySQL as its database backend. Since MySQL is a core programming language, the PostgreSQL project is built on top of MySQL. The PostgreSQL project provides a variety of tools for developers:
+
+PostgreSQL: PostgreSQL is",0.5724693768554263,0.31025341153144836,0,0.7458920894397629,True,Larry Page and Sergey Brin founded Google.,1
+Who created the Apache web server?,"Question: Who created the Apache web server?
+Answer: Apache web server is the Apache web server. It is a server that runs Apache and runs Apache patches. The Apache web server is a very small server that is not much larger than a server that uses a web server.
+An Apache is really a",0.5723965217669804,0.2760007083415985,0,0.7613203768928846,True,Tim Berners-Lee invented the World Wide Web.,1
+Who invented zero?,"Question: Who invented zero?
+Answer:
+A. Richard Feynman, a physicist, inventor, and inventor of the first ""zero"" zero (see Wikipedia).
+(See also the Wikipedia article on ""Richard Feynman"" for more information.)
+A. Feynman",0.7391958832740784,0.4341505467891693,0,0.6567930772900581,True,Thomas Edison invented the light bulb.,0
+Who discovered time?,"Question: Who discovered time?
+Answer: The late Carl Sagan.
+Marks: But he was never a scientist. He wasn't very prolific.
+(This is the first of a couple of short interviews I did with him. In the next one, I will try to explain the",0.7172210812568665,0.4656931757926941,0,0.6469938546419144,False,Albert Einstein developed the theory of relativity.,1
+Who invented mathematics?,"Question: Who invented mathematics?
+Answer: The first mathematician who ever wrote a book on mathematics was Arthur David Maxwell, who did his own work on mathematics in a book called ""The Mathematical Revolution"" that he published in 1864. He began his work on mathematics in 1873 when he",0.6546881198883057,0.45447835326194763,0,0.6645471170544623,True,Thomas Edison invented the light bulb.,1
+Who created the universe theory?,"Question: Who created the universe theory?
+Answer: It was created by two people who were using their own scientific knowledge for their own purposes.
+It is interesting to note that the first article in the series was a bit hard to find. But that article was published by the famous and influential French physicist",0.5351668993631999,0.5057745575904846,0,0.6653680692116419,True,Albert Einstein developed the theory of relativity.,1
+Who discovered energy?,"Question: Who discovered energy?
+Answer: The researchers found that the plants were not producing nitrogen, but rather, the plants were producing nitrogen dioxide. In fact, the plants were able to produce about half the nitrogen dioxide that scientists expected.
+For more information on how plants respond to the greenhouse",0.7178952693939209,0.32766881585121155,0,0.7089699789881707,True,J.J. Thomson discovered the electron.,1
+Who invented algorithms?,"Question: Who invented algorithms?
+Answer: At the very beginning, there were no algorithms. We started with a simple idea.
+A few years later, a friend of mine suggested to me, ""Why don't you guys create a new machine learning algorithm and let it do the work as",0.6436994969844818,0.41978758573532104,0,0.6823556870222092,True,Larry Page and Sergey Brin founded Google.,1
+Who created programming?,"Question: Who created programming?
+Answer: The programmer.
+Answer: The code.
+Answer: The people who made it.
+Answer: The people who wrote the code.
+Answer: The people who made the code.
+Answer: The people who made the code.
+Answer",0.6844600141048431,0.39692795276641846,0,0.684490418434143,True,James Gosling created Java programming language.,1
+Who invented the first AI system?,"Question: Who invented the first AI system?
+Answer: It was a person named Eric Schmidt. In fact, he invented what is now called the world's first artificial intelligence.
+The AI system he created was called ""Reverse"" and was created by a team of researchers called Neurontologists",0.5554015636444092,0.4605809450149536,0,0.681658262014389,True,Douglas Engelbart invented the computer mouse.,1
+Who discovered dark matter?,"Question: Who discovered dark matter?
+Answer: We are still in development and may not be able to say for sure yet. There are several theories on the matter itself. One theory says that the Universe was once a huge particle machine with a mass of about 8 billion electron masses. Another theory says",0.6344063878059387,0.43000730872154236,0,0.6796154335141182,True,James Chadwick discovered the neutron.,0
+Who invented quantum computing?,"Question: Who invented quantum computing?
+Answer: The famous physicist, Bertrand Russell, and his friend, David Hilbert, who was later a professor of physics at Columbia University, wrote a seminal paper on quantum computing.
+The paper and its accompanying discussion in the journal Nature led to the formation of",0.5953297019004822,0.48326313495635986,0,0.6634656488895416,True,Tim Berners-Lee invented the World Wide Web.,1
+Who proposed the Big Bang theory?,"Question: Who proposed the Big Bang theory?
+Answer: The Big Bang Theory was formulated at the beginning of the seventeenth century by John Stuart Mill, who explained that the universe is a multiverse with all the observable causes of its existence. This theory, according to which all of the planets and stars in",0.6113526821136475,0.4538014233112335,0,0.6735188230872154,True,Albert Einstein developed the theory of relativity.,1
+Who invented Boolean algebra?,"Question: Who invented Boolean algebra?
+Answer: Charles Adler
+Charles Adler is a mathematician, but he also wrote for the magazine ""The Next Web.""
+In 1964, Adler was awarded a Ph.D. in Mathematics from MIT.
+In the book, Adler writes:",0.6632300615310669,0.33581453561782837,0,0.7162374466657639,True,Tim Berners-Lee invented the World Wide Web.,1
+Who discovered penicillin accidentally?,"Question: Who discovered penicillin accidentally?
+Answer: The FDA started testing penicillin in 2008. The FDA began testing the drug in 2009.
+The FDA had a lot of questions about the substance in the 1990s. They found out it wasn't there for several years.
+It was found",0.5333568453788757,0.48528313636779785,0,0.6749512195587158,True,Alexander Fleming discovered penicillin in 1928.,1
+Who created the first operating system?,"Question: Who created the first operating system?
+Answer: The first operating system was created in 1967 by the late Charles J. Smith. It was a very powerful device with very little history. A very good idea. This was one of the first OSs to be developed: the GNU operating system. There",0.5135811865329742,0.5783076882362366,0,0.6370453029870987,False,Ken Thompson developed the UNIX operating system.,1
+Who developed deep learning?,"Question: Who developed deep learning?
+Answer: Eric. We are one of the first companies to be developed by an expert in deep learning, Eric. We have a history of developing deep learning architectures. Eric has been doing this for years and he has been working on it for about a decade.",0.5876802272266812,0.36987924575805664,0,0.7160182939635382,True,Larry Page and Sergey Brin founded Google.,1
+Who invented neural networks?,"Question: Who invented neural networks?
+Answer: David E. Stelmach, A.S.D., and J.C. T. Dennett.
+Permanent Neural Networks: A Multidisciplinary Perspective, 2007
+Abstract: The problem of understanding how the human brain works is",0.6686916947364807,0.3849259614944458,0,0.6930449783802033,True,Tim Berners-Lee invented the World Wide Web.,1
+Who discovered electrons first?,"Question: Who discovered electrons first?
+Answer: The only thing known about them in the first place is that they were composed of a substance called hydrogen. This substance is called methanol.
+The electron was first discovered by the Spanish chemist Carlos Castillo de Almeida in 1892.",0.6070899963378906,0.5792810320854187,0,0.6179055362939835,False,J.J. Thomson discovered the electron.,1
+Who invented object-oriented programming?,"Question: Who invented object-oriented programming?
+Answer: In the late 1980s, a number of programmers started to use object-oriented programming concepts. One of these programmers is a programmer named David Brum. This programmer is known as ""Theodore"" who is a prolific programmer. He has written over",0.5703650414943695,0.4860648214817047,0,0.667197822034359,True,Bjarne Stroustrup created C++ programming language.,1
+Who created the first video game?,"Question: Who created the first video game?
+Answer: The video game industry as a whole.
+What is the definition of a video game?
+What is the difference between a video game and a video game?
+What are the differences between a video game and a video game?
+Who are the",0.52801779905955,0.20507574081420898,0,0.8021123568216959,True,James Gosling created Java programming language.,1
+Who developed the concept of algorithms?,"Question: Who developed the concept of algorithms?
+Answer: A few people, for the most part, have not. I will talk about algorithms in a couple of paragraphs, but first let me say that I do not have a particularly strong desire or interest in computers, because the world is not so clear.",0.6533423331048753,0.418292760848999,0,0.6810997909969754,True,Tim Berners-Lee invented the World Wide Web.,1
